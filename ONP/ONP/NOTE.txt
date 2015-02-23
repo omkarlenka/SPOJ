@@ -1,0 +1,3 @@
+Use stack to push each operator and when ) is parsed,pop and print.
+Knew this soluton, but didn't know it was called Shunting Yard Algorithm.
+Beginner level.
