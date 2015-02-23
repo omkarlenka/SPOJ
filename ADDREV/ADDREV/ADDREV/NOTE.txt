@@ -1,0 +1,4 @@
+1.Key is reversing the number efficiently.
+2.I was using vector to store all digits in reverse order and then form the new number.
+3.But it can be done very simply by multiplying each digit by 10 and adding next number from last to first.
+4.This reduced time and space.
