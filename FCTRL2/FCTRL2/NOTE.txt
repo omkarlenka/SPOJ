@@ -1,0 +1,4 @@
+Its not possible to have any data structure to store 100!.
+So use array to store each digit of the number and use conventional multiplication.
+
+Here is a good source: http://www.codechef.com/wiki/tutorial-small-factorials
