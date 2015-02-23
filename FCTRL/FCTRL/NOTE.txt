@@ -1,0 +1,11 @@
+Zeros will be produced by multiplying 2 and 5.
+Count no. of 2 and 5 in all prime factors.
+No. of 2s is always greater than no. of 5s, because 2 comes 3 times before 5.
+1
+2 -> 1
+3
+4 -> 2
+5 -> 1
+So, problem reduces just to count no. of 5s in prime factors.
+Also consider 25, 125 etc. which have more than one 5.
+Direct que from Geeksforgeeks : http://www.geeksforgeeks.org/count-trailing-zeroes-factorial-number/
