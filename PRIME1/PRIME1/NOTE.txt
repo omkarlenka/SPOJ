@@ -1,0 +1,3 @@
+
+http://www.geeksforgeeks.org/sieve-of-eratosthenes/
+http://turjachaudhuri.wordpress.com/2013/12/14/spoj-prime-1-segmented-sieve-of-eratosthenes/
