@@ -1,0 +1,4 @@
+Very simple question,just identify the pattern.
+x==y or x-y ==2
+Also even,even and odd,odd pairing.
+Beginner level
