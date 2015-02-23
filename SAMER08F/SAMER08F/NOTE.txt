@@ -1,0 +1,2 @@
+No. of squares = (n*(n+1)*(2*n+1))/6.
+Beginner level
